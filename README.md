@@ -1,6 +1,10 @@
 # paintjs
 Painting Board made with VanillaJs
 
+for practice canvas
+
+제작기간 22.06.16 ~ 22.06.16
+
 feature
 1. paint
 2. change brush size
