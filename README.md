@@ -16,5 +16,5 @@
 
 ### will be update
 
-- [v] clear button
-- [v] paint pointer
+- [x] clear button
+- [x] paint pointer
