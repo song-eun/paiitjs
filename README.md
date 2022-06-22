@@ -16,8 +16,5 @@
 
 ### will be update
 
-- [ ] random color
-- [ ] clear button
-- [ ] brush pointer
-- [ ] fill, paint button change to icon
-- [ ] paint pointer
+- [v] clear button
+- [v] paint pointer
