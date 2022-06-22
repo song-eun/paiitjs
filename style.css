@@ -29,6 +29,10 @@ body {
   margin-bottom: 30px;
 }
 
+.cursor__fill {
+  cursor: url(img/cursor.cur), auto;
+}
+
 .controls__btns button {
   all: unset;
   cursor: pointer;
